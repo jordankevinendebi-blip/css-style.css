@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Optimisé -->
+    <title>Permis en Province | Auto-école Permis B près de chez vous</title>
+    <meta name="description" content="Auto-école Permis en Province : formation permis B accéléré, financement CPF, taux de réussite 70%. Réservez votre leçon de conduite près de chez vous depuis 2016.">
+    <meta name="keywords" content="auto ecole, permis b, permis accéléré, code de la route, conduite accompagnée, CPF permis, auto école province">
+    <meta name="author" content="Permis en Province">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Permis en Province | Votre permis en toute simplicité">
+    <meta property="og:description" content="Plus de 6000 élèves formés. Permis B rapide avec accompagnement personnalisé.">
+    <meta property="og:image" content="https://votre-site.com/images/voiture-hero.jpg">
+    <meta property="og:url" content="https://votre-site.com/">
+</head>
+
+<body>
+    <!-- MENU -->
+    <header class="header">
+        <nav class="navbar" aria-label="Navigation principale">
+            <a href="index.html" class="logo" aria-label="Accueil">
+                <img src="images/logo.png" alt="Logo Permis en Province">
+            </a>
+
+            <ul class="menu">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="formules.html">Formules & Tarifs</a></li>
+                <li><a href="avis.html">Avis Élèves</a></li>
+                <li><a href="agences.html">Nos Agences</a></li>
+                <li><a href="contact.html">Réservation</a></li>
+            </ul>
+
+            <a href="https://wa.me/33774397770" class="btn-whatsapp" target="_blank" rel="noopener">
+                WhatsApp
+            </a>
+        </nav>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-content">
+            <h1 id="hero-title">Votre permis de conduire commence ici</h1>
+            <p>Depuis 2016, plus de <strong>6000 candidats</strong> nous font confiance pour obtenir leur permis rapidement avec un accompagnement sur mesure.</p>
+            
+            <div class="hero-buttons">
+                <a href="formules.html" class="btn-primary">Découvrir nos formules</a>
+                <a href="contact.html" class="btn-secondary">Réserver maintenant</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- POINTS FORTS -->
+    <section class="services" aria-labelledby="services-title">
+        <h2 id="services-title">Pourquoi choisir Permis en Province ?</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>🚗 Permis accéléré</h3>
+                <p>Passez votre examen rapidement avec une organisation complète.</p>
+            </div>
+            <div class="card">
+                <h3>🏆 Une expérience reconnue</h3>
+                <p>Plus de 6000 élèves accompagnés depuis 2016.</p>
+            </div>
+            <div class="card">
+                <h3>💳 Financement CPF</h3>
+                <p>Des solutions de financement adaptées à votre projet.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- STATISTIQUES -->
+    <section class="stats">
+        <div>
+            <h3>6000+</h3>
+            <p>Élèves formés</p>
+        </div>
+        <div>
+            <h3>70%</h3>
+            <p>Taux de réussite</p>
+        </div>
+        <div>
+            <h3>2016</h3>
+            <p>Année de création</p>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2026 Permis en Province - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
